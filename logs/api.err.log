@@ -1,0 +1,8 @@
+INFO:     Started server process [11644]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+C:\inas-Code\SC2026_app\app\core\documentdb.py:31: UserWarning: You appear to be connected to a CosmosDB cluster. For more information regarding feature compatibility and support please visit https://www.mongodb.com/supportability/cosmosdb
+  return MongoClient(
+C:\Program Files\Python312\Lib\site-packages\pymongo\synchronous\mongo_client.py:1776: UserWarning: You appear to be connected to a CosmosDB cluster. For more information regarding feature compatibility and support please visit https://www.mongodb.com/supportability/cosmosdb
+  self._resolve_srv()
