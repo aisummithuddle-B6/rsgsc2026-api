@@ -103,4 +103,4 @@ def _build_claims_for_claimant(
             }
         )
 
-    return claims 
+    return claims
